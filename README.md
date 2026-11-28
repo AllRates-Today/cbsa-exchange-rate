@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-27 by Canada Border Services Agency — 137 rates, first 60 shown. Updated 2026-11-27.</summary>
+<summary>Table as text: published 2026-11-28 by Canada Border Services Agency — 137 rates, first 60 shown. Updated 2026-11-28.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
@@ -42,7 +42,7 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 | AMD | CAD | reference | 0.00388 |
 | AOA | CAD | reference | 0.00151 |
 | ARS | CAD | reference | 0.00091 |
-| AUD | CAD | reference | 0.9388 |
+| AUD | CAD | reference | 0.9447 |
 | AWG | CAD | reference | 0.77083 |
 | AZN | CAD | reference | 0.82184 |
 | BBD | CAD | reference | 0.71705 |
@@ -51,14 +51,14 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 | BIF | CAD | reference | 0.00046 |
 | BND | CAD | reference | 1.111 |
 | BOB | CAD | reference | 0.11325 |
-| BRL | CAD | reference | 0.2432 |
+| BRL | CAD | reference | 0.2483 |
 | BSD | CAD | reference | 1.4341 |
 | BWP | CAD | reference | 0.09943 |
 | BZD | CAD | reference | 0.67754 |
 | CDF | CAD | reference | 0.0006 |
-| CHF | CAD | reference | 1.7121 |
+| CHF | CAD | reference | 1.7077 |
 | CLP | CAD | reference | 0.0014 |
-| CNY | CAD | reference | 0.213 |
+| CNY | CAD | reference | 0.2139 |
 | COP | CAD | reference | 0.00041 |
 | CRC | CAD | reference | 0.00302 |
 | CUP | CAD | reference | 0.05589 |
@@ -71,23 +71,23 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 | EGP | CAD | reference | 0.02665 |
 | ERN | CAD | reference | 0.09314 |
 | ETB | CAD | reference | 0.00852 |
-| EUR | CAD | reference | 1.5591 |
+| EUR | CAD | reference | 1.563 |
 | FJD | CAD | reference | 0.61791 |
 | FKP | CAD | reference | 1.8704 |
-| GBP | CAD | reference | 1.8619 |
+| GBP | CAD | reference | 1.867 |
 | GEL | CAD | reference | 0.534 |
 | GHS | CAD | reference | 0.12121 |
 | GMD | CAD | reference | 0.01866 |
 | GNF | CAD | reference | 0.00016 |
 | GTQ | CAD | reference | 0.18385 |
 | GYD | CAD | reference | 0.00651 |
-| HKD | CAD | reference | 0.1814 |
+| HKD | CAD | reference | 0.1817 |
 | HNL | CAD | reference | 0.05283 |
 | HTG | CAD | reference | 0.0106 |
 | HUF | CAD | reference | 0.00421 |
 | IDR | CAD | reference | 0.000078 |
 | ILS | CAD | reference | 0.42802 |
-| INR | CAD | reference | 0.01542 |
+| INR | CAD | reference | 0.01541 |
 | IQD | CAD | reference | 0.00094 |
 | ISK | CAD | reference | 0.01144 |
 | JMD | CAD | reference | 0.00889 |
